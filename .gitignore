@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+**/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# npm logs
+npm-debug.log*
+
+# Vercel/Render local config
+.vercel/
+.render/
